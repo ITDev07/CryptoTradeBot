@@ -1,3 +1,4 @@
+This bot is based on Machine Learning and Predection of ARIMA Model
 1. Open your teminal and go to directory where is a executable file.
 i,e: If you copy Tradebot directory to Document folder, then you can run "cd Document", "cd Tradebot"
 2. In Tradebot directory, in order to set the parameters for trading, run this command: "nano .env" in MacOS and "vim .env" or "notepad .env" in Win.
